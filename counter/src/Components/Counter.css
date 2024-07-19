@@ -1,0 +1,19 @@
+.Container{
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+}
+
+.btn{
+    padding: 5px 20px;
+    margin: 5px;
+    background-color: aquamarine;
+}
+
+.count{
+    padding: 5px 10px;
+    background-color: cadetblue;
+}
